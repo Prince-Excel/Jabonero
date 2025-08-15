@@ -29,16 +29,16 @@ public class activity1 {
         if(ave<70){
             rm = "Fail";
             ms = "Try Again";
-        }else if(ave<71){
+        }else if(ave<76){
             rm = "Poor";
             ms = "Congrats ";
-        }else if(ave<76){
+        }else if(ave<81){
             rm = "Fair";
             ms = "Congrats ";
-        }else if(ave<81){
+        }else if(ave<86){
             rm = "Good";
             ms = "Congrats ";
-        }else if(ave<86){
+        }else if(ave<91){
             rm = "Very Good";
             ms = "Congrats ";
         }else{
